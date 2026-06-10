@@ -1,4 +1,4 @@
-### Andrey Strigalev
+### Andrew Strigaliov
 
 Senior Fullstack Developer · Founder of SagTech · Based in Warsaw
 
@@ -20,6 +20,6 @@ I build production-grade web applications and AI-native systems. 6+ years of exp
 
 **Links**
 
-- LinkedIn — https://www.linkedin.com/in/andrew-strigaliov-113721216
-- - SagTech — https://sagtech.example
+- Website — https://astrigaliov.dev
+- - LinkedIn — https://www.linkedin.com/in/andrew-strigaliov-113721216
   - 
