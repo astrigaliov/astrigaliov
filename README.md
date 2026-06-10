@@ -1,16 +1,25 @@
-## Hi there 👋
+### Andrey Strigalev
 
-<!--
-**makemesuffer/makemesuffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Fullstack Developer · Founder of SagTech · Based in Warsaw
 
-Here are some ideas to get you started:
+I build production-grade web applications and AI-native systems. 6+ years of experience across frontend, backend and infrastructure. Founder of SagTech — an AI-native software agency working in FinTech, Blockchain, AI and E-commerce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Frontend** — React · Next.js · TypeScript · Tailwind CSS
+
+**Backend** — Node.js · NestJS · PostgreSQL · Redis
+
+**AI / LLM** — Claude · OpenAI · MCP · AI agents · RAG · Prompt engineering
+
+**DevOps** — Docker · Hetzner · Coolify · n8n · CI/CD
+
+---
+
+**Currently focused on** building AI-native products and infrastructure at SagTech.
+
+**Links**
+
+- LinkedIn — https://www.linkedin.com/in/andrew-strigaliov-113721216
+- - SagTech — https://sagtech.example
+  - 
