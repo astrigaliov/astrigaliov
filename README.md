@@ -1,49 +1,36 @@
 # Andrew Strigaliov
 
-Fullstack Engineer & Entrepreneur
+**Senior Fullstack Engineer** — React · Node.js · TypeScript · AI/LLM
 
-I build products end to end — from planning and engineering to launch and sales. Part entrepreneur, part fullstack engineer.
+I build production web apps end to end — frontend architecture, Node.js backends, and AI/LLM features that survive production.
 
-Warsaw / Remote · EST-friendly · [astrigaliov.dev](https://astrigaliov.dev) · [LinkedIn](https://www.linkedin.com/in/andrew-strigaliov-113721216)
+Warsaw / Remote (CET, US-overlap OK) · [astrigaliov.dev](https://astrigaliov.dev/) · [LinkedIn](https://www.linkedin.com/in/andrew-strigaliov-113721216)
 
----
+## About
 
-### About
+Senior fullstack engineer with 6+ years building production web apps across FinTech, e-commerce, travel, and SaaS.
 
-I'm a fullstack engineer and entrepreneur with 6+ years building production web apps across FinTech, e-commerce, travel, and SaaS. I work across the whole product — planning and strategy, design, engineering, launch, and sales.
+My main stack is React, Node.js, and TypeScript. I focus on frontend architecture, AI/LLM integration (RAG, agents, evals), and the infrastructure to run it all in production.
 
-My main stack is React, Node.js, and TypeScript. I focus on frontend architecture and AI/LLM features, plus the infrastructure to run them in production.
+## Selected Work
 
-### Selected Work
+- **Mastercard** — frontend architecture for a financial-grade product; net-new product surfaces and AI-driven frontend workflows shipped across markets.
+- **easyJet holidays** — personalization and monetization surfaces with adaptive, real-time UX for a high-traffic travel product.
+- **LARTE Design** — AI sales assistant: NestJS + RAG over 500+ products, answering in 2–5 s to drive e-commerce sales.
+- **NinjaPromo / HIDE** — AI sales-call analysis pipeline: 1,000+ calls processed, 15 sales reps scored.
+- **Absolute Labs** — Web3 marketing platform segmenting 600M+ wallets across Ethereum and Polygon for on-chain targeting.
+- **Interactio** — real-time multilingual interpretation over WebRTC, with Google Calendar, Slack, and MS Teams integrations.
 
-**Tapply** — founder of an e-commerce platform letting merchants sell directly inside WhatsApp and Telegram. Raised $30K, presented at Web Summit Lisbon '24.
-
-**Mastercard** — frontend architecture for an SME platform; net-new product surfaces and AI-driven frontend workflows shipped across markets.
-
-**easyJet holidays** — personalization and monetization surfaces with adaptive, real-time UX for a high-traffic travel product.
-
-**Absolute Labs** — Web3 marketing platform segmenting 600M+ wallets across Ethereum and Polygon for on-chain audience targeting.
-
-**Interactio** — real-time multilingual interpretation over WebRTC, connecting speakers, interpreters, and listeners with workspace integrations.
-
-**LARTE Design** — AI sales assistant (RAG over 500+ products) answering product questions to drive e-commerce sales.
-
-### Stack
+## Stack
 
 **Languages** — JavaScript · TypeScript
-
 **Frontend** — React · Next.js · Redux · MobX · Tailwind · SCSS
-
 **Backend** — Node.js · Express · NestJS · Fastify
-
 **Data** — PostgreSQL · MongoDB · Redis · Prisma · TypeORM · REST · GraphQL · WebSocket
-
 **AI Engineering** — LLM apps (Claude, OpenAI) · RAG (pgvector, embeddings) · evals (promptfoo) · observability (Langfuse) · tool calling · AI agents (MCP) · Vercel AI SDK
-
 **Cloud & DevOps** — AWS · Docker · GitHub Actions · Coolify · Nginx · n8n · CI/CD
 
-### Contact
+## Contact
 
-Open to Senior, Lead, and C-level roles, plus high-impact contract work.
-
-Warsaw / Remote · EST-friendly · [astrigaliov.dev](https://astrigaliov.dev)
+Open to Senior/Lead roles and B2B contracts.
+Warsaw / Remote (CET, comfortable overlapping with US teams) · [astrigaliov.dev](https://astrigaliov.dev/)
