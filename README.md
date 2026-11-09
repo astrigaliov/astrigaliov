@@ -1,19 +1,22 @@
 # Andrew Strigaliov
 
-**Senior Fullstack Engineer** — React · Node.js · TypeScript · AI/LLM
+**I build products. Currently at Debtist.**
+
+React · Node.js · TypeScript · AI/LLM
 
 I build production web apps end to end — frontend architecture, Node.js backends, and AI/LLM features that survive production.
 
-Warsaw / Remote (CET, US-overlap OK) · [astrigaliov.dev](https://astrigaliov.dev/) · [LinkedIn](https://www.linkedin.com/in/andrew-strigaliov-113721216)
+Warsaw / Remote · [astrigaliov.dev](https://astrigaliov.dev/) · [LinkedIn](https://www.linkedin.com/in/andrew-strigaliov-113721216)
 
 ## About
 
-Senior fullstack engineer with 6+ years building production web apps across FinTech, e-commerce, travel, and SaaS.
+Senior fullstack engineer building production web apps since 2019 across FinTech, e-commerce, travel, and SaaS.
 
 My main stack is React, Node.js, and TypeScript. I focus on frontend architecture, AI/LLM integration (RAG, agents, evals), and the infrastructure to run it all in production.
 
 ## Selected Work
 
+- **Debtist** — AI-native debt collection fintech.
 - **Mastercard** — frontend architecture for a financial-grade product; net-new product surfaces and AI-driven frontend workflows shipped across markets.
 - **easyJet holidays** — personalization and monetization surfaces with adaptive, real-time UX for a high-traffic travel product.
 - **LARTE Design** — AI sales assistant: NestJS + RAG over 500+ products, answering in 2–5 s to drive e-commerce sales.
@@ -32,5 +35,4 @@ My main stack is React, Node.js, and TypeScript. I focus on frontend architectur
 
 ## Contact
 
-Open to Senior/Lead roles and B2B contracts.
-Warsaw / Remote (CET, comfortable overlapping with US teams) · [astrigaliov.dev](https://astrigaliov.dev/)
+Warsaw / Remote · [astrigaliov.dev](https://astrigaliov.dev/)
