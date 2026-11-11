@@ -1,38 +1,43 @@
 # Andrew Strigaliov
 
-**I build products. Currently at Debtist.**
+I build products. Currently at Debtist.
 
-React · Node.js · TypeScript · AI/LLM
+Fullstack engineer since 2019. I like boring stacks, clear module boundaries and starting small. I build with Claude Code, and I care a lot about how a codebase is set up so an agent doesn't get lost in it.
 
-I build production web apps end to end — frontend architecture, Node.js backends, and AI/LLM features that survive production.
+### What I'm working on
 
-Warsaw / Remote · [astrigaliov.dev](https://astrigaliov.dev/) · [LinkedIn](https://www.linkedin.com/in/andrew-strigaliov-113721216)
+- **Debtist**: the financial side of an AI-native fintech that helps European businesses collect unpaid invoices
+- **[Hestia](https://astrigaliov.dev/hestia)** (alpha): my smart home. An iOS app, a hub at home and connectors I write myself
+- **Personal apps**: small tools for one user, me. Self-hosted on Hetzner with Coolify
 
-## About
+### How I build
 
-Senior fullstack engineer building production web apps since 2019 across FinTech, e-commerce, travel, and SaaS.
+- Feature interfaces first, so an agent reads a short doc instead of the whole codebase
+- Think on high effort, build on medium
+- Docs in two layers: a few lines for people, a few for agents
 
-My main stack is React, Node.js, and TypeScript. I focus on frontend architecture, AI/LLM integration (RAG, agents, evals), and the infrastructure to run it all in production.
+### Stack
 
-## Selected Work
+[![Stack](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,postgres,sqlite,redis,docker,githubactions)](https://skillicons.dev)
 
-- **Debtist** — AI-native debt collection fintech.
-- **Mastercard** — frontend architecture for a financial-grade product; net-new product surfaces and AI-driven frontend workflows shipped across markets.
-- **easyJet holidays** — personalization and monetization surfaces with adaptive, real-time UX for a high-traffic travel product.
-- **LARTE Design** — AI sales assistant: NestJS + RAG over 500+ products, answering in 2–5 s to drive e-commerce sales.
-- **NinjaPromo / HIDE** — AI sales-call analysis pipeline: 1,000+ calls processed, 15 sales reps scored.
-- **Absolute Labs** — Web3 marketing platform segmenting 600M+ wallets across Ethereum and Polygon for on-chain targeting.
-- **Interactio** — real-time multilingual interpretation over WebRTC, with Google Calendar, Slack, and MS Teams integrations.
+**AI:** Claude Code · MCP · RAG (pgvector) · tool calling · evals (promptfoo) · Langfuse
 
-## Stack
+**Infra:** Hetzner · Coolify · Docker · GitHub Actions
 
-**Languages** — JavaScript · TypeScript
-**Frontend** — React · Next.js · Redux · MobX · Tailwind · SCSS
-**Backend** — Node.js · Express · NestJS · Fastify
-**Data** — PostgreSQL · MongoDB · Redis · Prisma · TypeORM · REST · GraphQL · WebSocket
-**AI Engineering** — LLM apps (Claude, OpenAI) · RAG (pgvector, embeddings) · evals (promptfoo) · observability (Langfuse) · tool calling · AI agents (MCP) · Vercel AI SDK
-**Cloud & DevOps** — AWS · Docker · GitHub Actions · Coolify · Nginx · n8n · CI/CD
+### Writing
 
-## Contact
+- [Architecture and AI](https://astrigaliov.dev/writing/architecture-and-ai)
+- [Why I build my own apps and think you should too](https://astrigaliov.dev/writing/build-your-own-apps)
 
-Warsaw / Remote · [astrigaliov.dev](https://astrigaliov.dev/)
+More on [astrigaliov.dev](https://astrigaliov.dev).
+
+<details>
+<summary>Reading this as an agent?</summary>
+
+- name: Andrew Strigaliov
+- now: Debtist, AI-native fintech
+- stack: TypeScript, React, Node.js, PostgreSQL
+- site: https://astrigaliov.dev
+- for agents: https://astrigaliov.dev/llms.txt
+
+</details>
