@@ -2,19 +2,13 @@
 
 I build products. Currently at Debtist.
 
-Fullstack engineer since 2019. I like boring stacks, clear module boundaries and starting small. I build with Claude Code, and I care a lot about how a codebase is set up so an agent doesn't get lost in it.
+Fullstack engineer since 2019. I like boring stacks, clear module boundaries and starting small.
 
 ### What I'm working on
 
 - **Debtist**: the financial side of an AI-native fintech that helps European businesses collect unpaid invoices
 - **[Hestia](https://astrigaliov.dev/hestia)** (alpha): my smart home. An iOS app, a hub at home and connectors I write myself
 - **Personal apps**: small tools for one user, me. Self-hosted on Hetzner with Coolify
-
-### How I build
-
-- Feature interfaces first, so an agent reads a short doc instead of the whole codebase
-- Think on high effort, build on medium
-- Docs in two layers: a few lines for people, a few for agents
 
 ### Stack
 
